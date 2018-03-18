@@ -26,7 +26,7 @@ packages:
 
     "Jacek Galowicz <jacek@galowicz.de> @tfc":
         []
-        # - hamtsolo # conduit 1.3 https://github.com/tfc/hamtsolo/issues/3
+        - hamtsolo
 
     "Ferdinand van Walree <ferdinandvwalree@gmail.com> @Ferdinand-vW":
         []
